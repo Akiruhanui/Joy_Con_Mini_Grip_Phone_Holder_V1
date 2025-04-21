@@ -15,3 +15,7 @@ A mount that covers a small joy con grip and attaches to a phone grip which uses
 Smallest bolts on the esign are M3, but can also use 1/8 in. Medium sized bolts (for attaching the hinges together) are M5, and the largest metric bolt is an M6, which attaches at the bottom of the grip.
 
 The design is functional but may require a few edits and tolerancing around the holes based on your printer. Print with an infill of 30%, and with supports.
+
+![20250421_123839](https://github.com/user-attachments/assets/c73b55c9-c598-4f99-81b7-566a4a04c43d)
+![20250421_123851](https://github.com/user-attachments/assets/9a877968-ca90-4475-94d8-5522ef9d16ed)
+
