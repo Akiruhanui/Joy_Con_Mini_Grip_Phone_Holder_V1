@@ -12,7 +12,7 @@ This work is licensed under a
 # Joy_Con_Mini_Grip_Phone_Holder_V1
 A mount that covers a small joy con grip and attaches to a phone grip which uses standard camera gear threading (most likely 1/4-20 UNC). 
 
-Smallest bolts on the esign are M3, but can also use 1/8 in. Medium sized bolts (for attaching the hinges together) are M5, and the largest metric bolt is an M6, which attaches at the bottom of the grip. The legnths in the pictures for the metric bolts do not include the heads, but the imperial screw lengths do include the heads.
+Smallest bolts on the design are M3, but can also use 1/8 in. Medium sized bolts (for attaching the hinges together) are M5, and the largest metric bolt is an M6, which attaches at the bottom of the grip. The legnths in the pictures for the metric bolts do not include the heads, but the imperial screw lengths do include the heads.
 
 The design is functional but may require a few edits and tolerancing around the holes based on your printer. Print with an infill of at least 30%, and with supports.
 
